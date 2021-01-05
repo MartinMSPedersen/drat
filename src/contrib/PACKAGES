@@ -1,3 +1,17 @@
+Package: folkeafstemninger
+Version: 0.9
+Depends: R (>= 2.10)
+License: CC0
+MD5sum: 133a97d62891c3bf4d50eea991b2e471
+NeedsCompilation: no
+
+Package: folketingsvalg
+Version: 0.1.0
+Depends: R (>= 2.10)
+License: GPL-3
+MD5sum: c51b34c0691dc85b9c4632bab88cb566
+NeedsCompilation: no
+
 Package: StrangeAttractors
 Version: 1.0
 Imports: Rcpp (>= 0.12.13)
