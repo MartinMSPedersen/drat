@@ -1,0 +1,7 @@
+Package: StrangeAttractors
+Version: 1.0
+Imports: Rcpp (>= 0.12.13)
+LinkingTo: Rcpp
+License: GPL (>= 2)
+MD5sum: 0ae17b766500ca2ee8f39c052502e4da
+NeedsCompilation: yes
